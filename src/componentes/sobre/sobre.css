@@ -1,0 +1,19 @@
+.sobre p{
+  display: inline-block;
+  width: 30%;
+  margin-left: 20px;
+  font-size: 19px;
+  color: white;
+}
+.sobre img{
+  display:inline-block;
+  width: 30%;
+  margin-left: 30px;
+}
+.sobre{
+  margin-bottom: 100px;
+}
+.sobre h1{
+  display: inline-block;
+  color: white;
+}

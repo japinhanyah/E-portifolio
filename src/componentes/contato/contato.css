@@ -1,0 +1,36 @@
+.contato img{
+  width: 200px;
+  margin-left: 40px;
+  border: 10px solid white;
+}
+h1{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.cont{
+  display: inline-block;
+}
+.contato p{
+  margin-left: 60px;
+  margin-bottom: 120px;
+  font-family: garamond;
+  font-size: 18px;
+  color: white;
+}
+.contato{
+  margin-bottom: 100px;
+} 
+.contato form{
+  display: inline-block;
+}
+label{
+  color: white;
+  margin-left: 50px;
+  font-size: 18px;
+}
+input{
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  height: 50px;
+}

@@ -1,0 +1,17 @@
+.portifolio img{
+  display: inline-block;
+  width: 200px;
+  margin-right: 40px;
+  margin-top: 50px;
+  border: 2px solid white;
+}
+p{
+  font-family: garamond;
+}
+.portifolio{
+  margin-bottom: 100px;
+}
+.portifolio h1{
+  color: white;
+  display: inline-block;
+}

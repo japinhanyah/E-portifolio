@@ -1,0 +1,26 @@
+.servicos img{
+  display: inline-block;
+  width: 200px;
+  margin-left: 40px;
+  margin-top: 30px;
+  border: 2px solid white;
+}
+.container {
+  display: inline-block;
+  position: relative;
+}
+.container p {
+  position: absolute;
+  top: 230px;
+  left: 50px;
+  font-size: 30px;
+  color: white;
+}
+.servicos{
+  margin-bottom: 100px;
+ 
+}
+.servicos h1{
+  display: inline-block;
+  color: white;
+}
